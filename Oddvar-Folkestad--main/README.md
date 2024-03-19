@@ -1,0 +1,3 @@
+Prosjekt Oddvar TDT4100 objektorientert programmering
+
+Appen utviklet i prosjektbiten av TDT4100 er inspirert av "higher or lower"-spillene, hvor målet er å gjette hva som blir googlet mest: Enten Ting A eller Ting B. Mitt program er laget med tanken om hvem som er nevnt mest i media og tillate gjetting på hvem som er nevnt mest enten i en artikkel fra NRK eller på Wikipedia. Den kan ta inn flere NRK-artikler samtidig, slik at spilleren står overfor mange valg og må vurdere dem mot hverandre. Hvert spill starter med 3 liv, og avsluttes når spilleren har gjort 3 feil. Spillet har en GUI laget i javaFx og lagrer listen av personen i media og wikipedia til fil for å spille ifra denne filen. GUI ser ikke bra var ikke et fokusområde. Har brukt både Jsoupe og CoreNLP. 
